@@ -22,4 +22,4 @@ I'm looking forward to learning SQL and doing [lab 7][lab-7]!
 [lab-7]: https://hendrix-cs.github.io/csci340/labs/sqlqueries.html
 [jekyllrb]: https://talk.jekyllrb.com/t/error-with-eventmachine/9547
 
-extra words
+extra words more words
