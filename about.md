@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+Hi, my name is Bryson DeLozier! I'm a junior computer science major at Hendrix College. I also play on the baseball team here. Some of my favorite things I've learned about in my computer science courses at Hendrix include machine learning, principle component analysis, SQL, and Rust!
+
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
 You can find the source code for Minima at GitHub:
