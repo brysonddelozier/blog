@@ -1,7 +1,7 @@
 # Site-wide settings
 # ------------------
 
-title: Bryson's Lab 2
+title: Bryson's Blog
 
 author:
   name: Bryson DeLozier
@@ -10,7 +10,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key. If
 #   you wish to omit the line-break after the end of text, use `>-` instead.
 description: >
-  This is my blog for lab 2!
+  This is my blog for CSCI 340: Databases and Web Systems!
 
 
 # Build settings
