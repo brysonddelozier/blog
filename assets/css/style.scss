@@ -6,7 +6,7 @@
   "minima/skins/{{ site.minima.skin | default: 'classic' }}",
   "minima/initialize";
 
-h1 {
+.site-title {
   font-family: "Montserrat", sans-serif;
   font-optical-sizing: auto;
   font-style: normal;
